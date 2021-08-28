@@ -1,2 +1,2 @@
 # Ignite
- Aulas e atividade Ignite Rocketsea
+ Aulas e atividade Ignite Rocketseat
